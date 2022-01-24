@@ -1,0 +1,28 @@
+body {
+    background-color: rgb(66, 66, 66);
+}
+h1 
+{
+    background-color: rgb(26, 101, 114);
+    padding: 10px;
+    text-align: center;
+}
+p {
+    color: white;
+}
+.fancy {
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: 1.6em;
+    color: turquoise;
+    border: 1px solid white;
+    padding:50px 10px;
+    margin: 40p
+}
+#davis {
+    width: 100px;
+}
+.superfancy{
+    font-family: 'Neonderthaw', cursive;
+    font-size:3em;
+}
